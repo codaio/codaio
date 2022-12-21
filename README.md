@@ -1,9 +1,7 @@
-В этом канале я буду периодически рассказывать о своем многолетнем опыте построения персональной базы знаний. Планирую писать про Zettelkasten, Obsidian, Org-mode. Расскажу про то, что прижилось у меня (и у других), а что нет (и почему).
+In this channel I will periodically talk about my years of experience in building a personal knowledge base. I plan to write about Zettelkasten, Obsidian, Org-mode. I will tell about what works for me (and others) and what does not (and why).
 
-Буду описывать работы над проектом orgever -- publish-first фреймворк для организации вечной базы знаний.
+I will describe my work on orgever project - publish-first framework for organizing eternal knowledge base.
 
-Какие-нибудь темы еще появятся, например, self-менеджмент, собранность и применение практик системного подхода к жизни.
+Some other topics will come up, such as self-management, focus, and application of systematic approach to life practices.
 
-Приходите обсуждать!
-
-🇬🇧 English version: https://github.com/codaio/codaio
+Come discuss!
